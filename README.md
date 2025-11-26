@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @limitlessHDev
-- 👀 I’m interested in software that helps people learn, understand, and make choices
-- 💞️ I’m working on personal projects right now
+- 👋 Hi, I’m @limitlessHDev (Rod, he/him)
+- 👀 I’m interested enabling cognitive automation support for non-engineers
+- 💞️ I particularly offer services to mid-size businesses overloaded with documents
 - 📫 How to reach me: limitlesshorizons.ai
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Saw the Grateful Dead many times back in the day
 
 <!---
 limitlessHDev/limitlessHDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
